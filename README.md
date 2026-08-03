@@ -43,7 +43,6 @@ The dataset contains information for **1000 students** with multiple academic an
 ### Dataset Attributes
 
 - Student ID
-- Student Name
 - Gender
 - College
 - Degree
@@ -116,9 +115,9 @@ The dashboard includes:
 - Total Students
 - Internship Success Rate
 - Average Readiness Score
-- Highest Readiness Score
-- Lowest Readiness Score
+- Average CGPA
 - Top Performing College
+- Skill Gap
 
 ---
 
